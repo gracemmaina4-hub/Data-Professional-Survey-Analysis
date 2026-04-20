@@ -91,31 +91,7 @@ The dataset contains survey responses from **630 data professionals**, including
 
 ---
 
-## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository
-2. Open it using **Power BI Desktop**
-3. Interact with filters and visuals to explore insights
-
----
-
-## 💡 Key Takeaways
-
-* Data Science roles remain the highest paying in the industry
-* Python dominates as the primary programming language
-* There is a noticeable gap between salary expectations and satisfaction
-* The data industry is relatively young with an average age below 30
-
----
-
-## 📌 Future Improvements
-
-* Add more datasets for broader analysis
-* Include trend analysis over time
-* Enhance interactivity with advanced filters
-* Deploy dashboard to Power BI Service for online access
-
----
 
 <img width="515" height="289" alt="Data Survey" src="https://github.com/user-attachments/assets/914c23a2-f564-4927-bcba-b02d7dd5bdcd" />
 
